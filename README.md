@@ -1,4 +1,4 @@
-# Mobile Desktop Stage 0
+# GitHub Repo and Mobile App
 A React Native-based mobile application for HNG Internship's "Git-ting Started" Task.
 Hosted on Appetize.io for easy testing.
 
@@ -15,14 +15,14 @@ This project is part of HNG Internship’s Stage 0 Task, aimed at setting up a G
 
 ## Installation & Running the App
 1. Clone the Repository
-    git clone https://github.com/Abdulrahman843/mobile-desktop-stage0.git
-    cd mobile-desktop-stage0/mobileApp
+git clone https://github.com/Abdulrahman843/mobile-desktop-stage0.git
+cd mobile-desktop-stage0/mobileApp
 2️. Install Dependencies
-    npm install
+npm install
 3️. Start Metro Bundler
-    npx react-native start
+npx react-native start
 4️. Run on an Android Emulator
-    npx react-native run-android
+npx react-native run-android
 For iOS (Mac Required):
 cd ios
 pod install
